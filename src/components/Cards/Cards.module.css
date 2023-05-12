@@ -1,0 +1,15 @@
+.container{
+
+
+display: flex;
+justify-content: center;
+
+
+flex-wrap: wrap;
+background-image: url('../assets/27335-rick-y-morty.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size:cover;
+;
+}
